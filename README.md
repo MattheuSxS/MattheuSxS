@@ -119,12 +119,9 @@
 <br>
 <p align="center">
     <h2 align="center">Reach me out on <img src="./images/ui-design.png" width="20"></h2>
-    <a href="MatheuS: mattheusxs@gmail.com">
-        <img src="https://img.shields.io/badge/-mattheusxs-c14438?style=flat-square&logo=Gmail&logoColor=white&link=MatheuS:mattheusxs@gmail.com"/>
-    </a>
-    <a href="https://www.linkedin.com/in/matheus-s-silva-458324122/">
-        <img src="https://img.shields.io/badge/-MatheuS-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/matheus-s-silva-458324122/"/>
-    </a>
+    <a href="https://www.instagram.com/mattheusxs_santos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href = "mailto:mattheusxs@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/matheus-s-silva-458324122/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
 <h2 align="center">
@@ -142,10 +139,3 @@
 </p>
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐ </p>
-<br>
-
-<hr>
-
-| Versão Do Document |        Editor      |    Data    |  Percentage Complete  |
-|        :---:       |        :---:       |    :---:   |         :---:         |
-|        0.1.0       | Matheus S. Silva   | 2024-04-14 |          92%          |
