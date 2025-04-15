@@ -130,7 +130,7 @@
 
 <p align = "center">
     <img  src="https://github-readme-stats.vercel.app/api?username=MattheuSxS&show_icons=true&theme=radical&line_height=27"/>
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattheuSxS&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattheuSxS&layout=compact&theme=radical"/>
 </p>
 
 
