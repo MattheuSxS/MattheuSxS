@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./images/banner_7.png" />
+    <img src="./images/banner_2.png" />
 </p>
 
 
@@ -64,7 +64,7 @@
         title="HTML"
         width="30px"
         style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/ff435a0fff0391aefbf70d63a3fe7cfe64f82df0/icons/amazonwebservices/amazonwebservices-original.svg"
     />
     <img
         align="left"
@@ -121,7 +121,7 @@
     <h2 align="center">Reach me out on <img src="./images/ui-design.png" width="20"></h2>
     <a href="https://www.instagram.com/mattheusxs_santos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href = "mailto:mattheusxs@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/matheus-s-silva-458324122/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/matheus-s-silva-45832/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
 <h2 align="center">
